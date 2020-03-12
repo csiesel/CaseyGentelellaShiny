@@ -11,8 +11,8 @@
 #' @export
 #' @import shiny
 gentelellaSidebar <- function(...,
-                              site_title = shiny::HTML(paste(shiny::icon("paw"),
-                                                             "Shiny Gentelella")),
+                              site_title = shiny::HTML(paste(shiny::icon("fa-globe"),
+                                                             "SaniPath MultiCountry Dashboard")),
                               url = NULL, fixed = FALSE, footer = NULL){
 
   sidebarCl <- "col-md-3 left_col"
