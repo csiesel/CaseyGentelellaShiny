@@ -11,7 +11,7 @@
 #' @export
 #' @import shiny
 gentelellaSidebar <- function(...,
-                              site_title = shiny::HTML(paste(shiny::icon("fa-globe"),
+                              site_title = shiny::HTML(paste(shiny::icon("globe-africa"),
                                                              "SaniPath MultiCountry Dashboard")),
                               url = NULL, fixed = FALSE, footer = NULL){
 
