@@ -1,4 +1,4 @@
-Package: gentelellaShiny
+Package: CaseyGentelellaShiny
 Type: Package
 Version: 0.1.0
 Title: Use the Gentelella Bootstrap Template in Shiny Apps
