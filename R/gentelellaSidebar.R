@@ -147,7 +147,7 @@ sidebarProfile <- function(img = NULL, name = NULL) {
      class = "profile clearfix",
      tags$div(
        class = "profile_pic",
-       tags$img(src = img, class = "img-circle profile_img")
+       tags$img(src = img, class = "img profile_img")
      ),
      tags$div(
        class = "profile_info",
